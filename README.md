@@ -8,6 +8,7 @@ Navigation : Redirection entre les differentes pages
 Accessibilité : Connexion / Inscription
 Gestion de Role : Admin / utilisateur / visiteur
 Gallery Vehicule : accessibilité & action en fonction des ROLEs accorder
+        
         Admin : 
                 - Poster une annonce de vehicule
                 - Acceder/lire toute les annonces de vehicules
